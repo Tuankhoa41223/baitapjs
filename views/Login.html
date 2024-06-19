@@ -20,7 +20,23 @@
     </head>
 
     <body>
-  
+        <form  id="login">
+            <h2 class="text-center">Login</h2>
+            <div class="inputlogin">
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">User name</label>
+                    <input type="text" class="form-control" id="username" placeholder="Username">
+                  </div>
+                  <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="password" placeholder="Password">
+                </div>
+                <a href="" class="Forgot"><p>Forgot Password ?</p></a>
+                <div class="d-grid gap-2 col-12 mt-4 signin">
+                    <button class="btn btn-primary" type="submit">Sign In</button>
+                  </div>
+            </div>
+        </form>
         <script
             src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
             integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
@@ -32,5 +48,6 @@
             integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
             crossorigin="anonymous"
         ></script>
+        <script src="../js/Login.js"></script>
     </body>
 </html>

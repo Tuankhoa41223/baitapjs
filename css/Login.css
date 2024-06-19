@@ -1,0 +1,27 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://cdn.pixabay.com/photo/2022/12/15/20/39/background-7658514_640.jpg);
+}
+form{
+    width: 40%;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 20px;
+  .inputlogin{
+    .Forgot{
+        text-align: end;
+        text-decoration: none;
+    }
+  }
+}
