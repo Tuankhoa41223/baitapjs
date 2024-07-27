@@ -1,0 +1,315 @@
+{
+  "tables": [
+    {
+      "id": "1",
+      "nameCustomer": "khoa",
+      "quantity": "1",
+      "status": true
+    },
+    {
+      "id": "2",
+      "nameCustomer": "",
+      "quantity": null,
+      "status": false
+    },
+    {
+      "id": "3",
+      "nameCustomer": "",
+      "quantity": null,
+      "status": false
+    },
+    {
+      "id": "4",
+      "nameCustomer": "",
+      "quantity": null,
+      "status": false
+    },
+    {
+      "id": "5",
+      "nameCustomer": "",
+      "quantity": null,
+      "status": false
+    },
+    {
+      "id": "6",
+      "nameCustomer": "",
+      "quantity": 0,
+      "status": false
+    },
+    {
+      "id": "7",
+      "nameCustomer": "",
+      "quantity": null,
+      "status": false
+    },
+    {
+      "id": "8",
+      "nameCustomer": "",
+      "quantity": 0,
+      "status": false
+    },
+    {
+      "id": "9",
+      "nameCustomer": "",
+      "quantity": null,
+      "status": false
+    },
+    {
+      "id": "10",
+      "nameCustomer": "",
+      "quantity": null,
+      "status": false
+    },
+    {
+      "id": "11",
+      "nameCustomer": "",
+      "quantity": null,
+      "status": false
+    },
+    {
+      "id": "12",
+      "nameCustomer": "",
+      "quantity": 0,
+      "status": false
+    },
+    {
+      "id": "13",
+      "nameCustomer": "",
+      "quantity": 0,
+      "status": false
+    },
+    {
+      "id": "14",
+      "nameCustomer": "",
+      "quantity": null,
+      "status": false
+    },
+    {
+      "id": "15",
+      "nameCustomer": "",
+      "quantity": 0,
+      "status": false
+    },
+    {
+      "id": "16",
+      "nameCustomer": "",
+      "quantity": 0,
+      "status": false
+    },
+    {
+      "id": "17",
+      "nameCustomer": "",
+      "quantity": 0,
+      "status": false
+    },
+    {
+      "id": "18",
+      "nameCustomer": "",
+      "quantity": 0,
+      "status": false
+    },
+    {
+      "id": "19",
+      "nameCustomer": "",
+      "quantity": 0,
+      "status": false
+    },
+    {
+      "id": "20",
+      "nameCustomer": "",
+      "quantity": 0,
+      "status": false
+    }
+  ],
+  "food": [
+    {
+      "id": "1",
+      "name": "Hamberger",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "2",
+      "name": "BeefSteak",
+      "img": "https://cdn.pixabay.com/photo/2017/03/23/19/57/asparagus-2169305_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "3",
+      "name": "DimSum",
+      "img": "https://cdn.pixabay.com/photo/2014/08/14/14/21/shish-kebab-417994_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "4",
+      "name": "Fried Chicken",
+      "img": "https://cdn.pixabay.com/photo/2017/03/16/20/39/noodles-2150181_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "5",
+      "name": "Pizza",
+      "img": "https://cdn.pixabay.com/photo/2017/09/30/15/10/plate-2802332_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "6",
+      "name": "Sallad",
+      "img": "https://cdn.pixabay.com/photo/2018/05/01/18/21/eclair-3366430_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "7",
+      "name": "Veg Rice",
+      "img": "https://cdn.pixabay.com/photo/2017/06/16/18/35/tarte-2409958_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "8",
+      "name": "Pad Thai",
+      "img": "https://cdn.pixabay.com/photo/2018/08/29/19/01/fig-3640553_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "9",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "10",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "11",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "12",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "13",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "14",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "15",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "16",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "17",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "18",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "19",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    },
+    {
+      "id": "20",
+      "name": "garan",
+      "img": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+      "price": 300
+    }
+  ],
+  "orders": [],
+  "paybill": [
+    {
+      "id": "1",
+      "nameCustomer": "khoa",
+      "total": 1200,
+      "date": "2024-07-05T08:59:32.184Z"
+    },
+    {
+      "id": "1",
+      "nameCustomer": "son",
+      "total": 1500,
+      "date": "2024-07-05T09:00:05.307Z"
+    },
+    {
+      "id": "1",
+      "nameCustomer": "khoa",
+      "total": 2700,
+      "date": "2024-07-05T09:12:46.773Z"
+    },
+    {
+      "id": "2",
+      "nameCustomer": "khoa",
+      "total": 3000,
+      "date": "2024-07-05T09:13:12.774Z"
+    },
+    {
+      "id": "5",
+      "nameCustomer": "khoa",
+      "total": 1500,
+      "date": "2024-07-05T09:18:28.671Z"
+    },
+    {
+      "id": "10",
+      "nameCustomer": "son",
+      "total": 2700,
+      "date": "2024-07-05T09:20:24.482Z"
+    },
+    {
+      "id": "9",
+      "nameCustomer": "khoa",
+      "total": 2700,
+      "date": "2024-07-05T09:20:44.040Z"
+    },
+    {
+      "id": "11",
+      "nameCustomer": "gdrhdhh",
+      "total": 5400,
+      "date": "2024-07-05T09:21:06.082Z"
+    },
+    {
+      "id": "14",
+      "nameCustomer": "ada",
+      "total": 8400,
+      "date": "2024-07-05T09:21:48.612Z"
+    },
+    {
+      "id": "3",
+      "nameCustomer": "khoa",
+      "total": 2700,
+      "date": "2024-07-05T09:22:49.781Z"
+    },
+    {
+      "id": "4",
+      "nameCustomer": "fsfsfs",
+      "total": 3300,
+      "date": "2024-07-05T09:23:33.282Z"
+    }
+  ]
+}

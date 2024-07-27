@@ -5,6 +5,9 @@ document.getElementById("login").addEventListener("submit", (e) =>{
     const username = document.getElementById("username").value;
     const password = document.getElementById("password").value;
     
+    if( !username || !password ) {
+        return;
+ }
     const account = localStorage.getItem("account");
      const user = JSON.parse(account);
 
@@ -13,7 +16,7 @@ document.getElementById("login").addEventListener("submit", (e) =>{
          return;
      }
     
-     alert("Banthanh cong");
+     alert("Ban dag nhap thanh cong");
     location.href = "Home.html";
-
-})
+     
+});

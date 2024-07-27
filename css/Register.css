@@ -31,3 +31,6 @@ form{
     }
 }
 
+.error {
+    display: none;
+}
